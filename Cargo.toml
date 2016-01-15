@@ -1,0 +1,4 @@
+[package]
+name = "zhesaurus"
+version = "0.1.0"
+authors = ["Zephyr Pellerin <zv@nxvr.org>"]
