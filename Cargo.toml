@@ -2,12 +2,18 @@
 name = "zhesaurus"
 version = "0.1.0"
 repository = "https://github.com/zv/zhesaurus"
+keywords = ["gtk", "thesaurus"]
 authors = ["Zephyr Pellerin <zv@nxvr.org>"]
 license = "GPL-3.0+"
 description = "A Thesaurus"
 
 [dependencies]
-gtk = "0.0.6"
+cairo-rs = "^0"
+gdk = "^0"
+glib = "^0"
+gtk = "^0"
+log = "^0"
+env_logger = "^0"
 
 [[bin]]
 name = "zhesaurus"
