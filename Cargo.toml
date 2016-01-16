@@ -1,4 +1,13 @@
 [package]
 name = "zhesaurus"
 version = "0.1.0"
+repository = "https://github.com/zv/zhesaurus"
 authors = ["Zephyr Pellerin <zv@nxvr.org>"]
+license = "GPL-3.0+"
+description = "A Thesaurus"
+
+[dependencies]
+gtk = "0.0.6"
+
+[[bin]]
+name = "zhesaurus"
