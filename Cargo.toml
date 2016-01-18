@@ -12,6 +12,7 @@ glib = "^0"
 gtk = "^0"
 gdk = "^0"
 log = "^0"
+html5ever = "*"
 env_logger = "^0"
 
 [[bin]]
